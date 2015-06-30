@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Milan Kostic",
+    "label": "Programmer",
+    "picture": "https://avatars0.githubusercontent.com/u/13009015?v=3&u=0110b4acac200380647360f0f19000138955f8c0&s=140",
+    "email": "milan.kostic@tigar.com",
+    "phone": "+38163484798",
+    "website": "",
+ "summary": "Experienced computer programmer, database developer, application developer, IT manager and systems integrator with strong manufacturing background. Knowledge of Web programming, Web based sales, retail and wholesale management, accountancy, financial analyses, financial management. Focused and hard working. Proven capability for working under pressure under tight project deadlines. Designing & Integrating systems for automation control. Team player with exceptional communication skills. Staying current on progress in technology and computer science",
+    "location": {
+      "address": "18300 Pirot, Knjaza Milosa 33/1 stan 8",
+      "postalCode": "18300",
+      "city": "Pirot",
+      "countryCode": "Serbia",
+      "region": "Serbia"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "TIGAR A.D. Rubber company, Retail & Wholesale",
+      "position": "Web & Desktop Application Developer, Database Development",
+      "website": "http://www.internet-prodaja.tigar.com",
+      "startDate": "1998-02-12",
+      "endDate": "2015-06-23",
+    "summary": "Many years of experience in implementing and providing support for new software solutions, as well as improving of the existing infrastructure. Strong focus on end user needs. Project management in software and IT environments across various clients. Actively collaborating with the company's Internet Marketing team. Developed ways to significantly improve web content, create web pages optimization, website design and technical adaptation. Assisted clients with financial reporting. Troubleshooting software errors in existing systems. Testing and debugging existing modules. Successfully documented processes, workflows, codes and procedures.",
+      "highlights": []
+    },
+    {
+      "company": "TIGAR A.D. Rubber company â€“ Tyres factory",
+      "position": "PLC programmer, System Integrator, Programmer",
+      "website": "http://www.michelin.rs/",
+      "startDate": "1997-01-13",
+      "endDate": "1998-02-12",
+      "summary": "Designing & Integrating systems for automation control including programming Allen Bradley PLCs. Creating Visual Basic GUI Applications for control of automation systems.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Faculty of Electronic Engineerig, Nis",
+      "area": "Automatics & Electronics",
+      "studyType": "Bachelor",
+      "startDate": "1990-10-01",
+      "endDate": "1996-12-23",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": ".NET, C#, VISUAL BASIC, Java Script (Ajax)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Crystal Reports ,IBM DB2 DATABASE",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP, MySQL,Jquery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#, MySQL, Crystal Reports",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML, CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JAVA 2 ENTERPRISE EDITION",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ORACLE",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VISUAL BASIC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Visual Studio, Eclipse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluently"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Basketball, Travelling and Music.",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
